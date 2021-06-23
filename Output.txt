@@ -1,0 +1,8 @@
+Enter Your Location : Ernakulam
+Weather Stats for - ERNAKULAM || 23 Jun 2021 | 05:05:11 PM
+***********************************************************************************
+Current Temperature : 26.99 deg C
+Current Weather :  moderate rain
+Current Humidity :  89 %
+Current Wind Speed :  2.7 kmph
+***********************************************************************************
